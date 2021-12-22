@@ -1,0 +1,17 @@
+{
+  "name": "@chargo/lru",
+  "version": "1.0.0",
+  "description": "LRU",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "repository": "https://github.com/chargoyao/LRU.git",
+  "author": "chargoyao",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
+}

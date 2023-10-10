@@ -27,4 +27,3 @@ class Lru {
     }
 }
 exports.default = Lru;
-//# sourceMappingURL=index.js.map
